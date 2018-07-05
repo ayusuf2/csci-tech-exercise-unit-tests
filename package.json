@@ -1,0 +1,15 @@
+{
+  "name": "csci-tests-with-mocha",
+  "version": "1.0.0",
+  "description": "tech exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ahmed Yusuf",
+  "license": "",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
